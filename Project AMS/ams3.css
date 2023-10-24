@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    background-color: #90BFCF;
+    text-decoration: none;
+}
+h1{
+    color: gold;
+    font-family:sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+div{
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+}

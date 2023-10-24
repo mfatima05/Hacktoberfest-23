@@ -1,0 +1,41 @@
+h1{
+    color:gold;
+    font-family:sans-serif;
+}
+img {
+    text-align: center;
+    height: 300px;
+    width:400px;
+  }
+*{
+    text-align: center;
+    background-color: #90BFCF;
+    text-decoration: none;
+}
+button a{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:azure;
+}
+span{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+p{
+    color:white;
+    text-decoration: wavy;
+    font-family: cursive;
+}
+h5{
+    color:white;
+    font-family: cursive;
+    font-size: large;
+}
+label{
+    color:black;
+}
+span i{
+    color:white;
+    font-size: 20px;
+}
