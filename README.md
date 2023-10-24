@@ -1,4 +1,4 @@
-# Hacktoberfest-23 <br>
+# Hacktoberfest-23
 ![image](https://github.com/mfatima05/Hacktoberfest-23/assets/112624853/dde30444-dc9d-4093-9488-e1f065ecd188)
 This is a repository for hacktoberfest2023 <br>
 In this, we will be uploading DSA and gfg leetcode problems of languages C++ , Java and Python. <br>
