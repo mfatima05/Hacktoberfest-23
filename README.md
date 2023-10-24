@@ -1,4 +1,4 @@
-# Hacktoberfest-23
+# HacktoberFest 2023
 ![image](https://github.com/mfatima05/Hacktoberfest-23/assets/112624853/dde30444-dc9d-4093-9488-e1f065ecd188)
 
 Hacktoberfest encourages participation in the open-source community, which grows bigger every year. When you complete the challenge, a tree will be planted in your honor to symbolize your love for Mother Earth.<br>
@@ -10,7 +10,12 @@ In this, we will be uploading DSA and gfg leetcode problems of languages C++ , J
 This is created to have all the programs at one place which will be beneficial in future.
 
 
-## Steps to Contribute
+## INSTRUCTTIONS FOR THIS PROJECT FOR BEGINNERS-
+
+### Getting Started 
+Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+You can directly make changes through Github or you can use VScode and commit by following the steps below
+Clone your fork down to your local machine
 
 * ### *Fork the Repository*
 * ### *Clone the repository*
