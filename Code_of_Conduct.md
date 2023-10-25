@@ -60,9 +60,9 @@ Community leaders will follow these Community Impact Guidelines in determining t
 <b>Consequence:</b> A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
-</b>Community Impact: </b>Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
+<b>Community Impact: </b>Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
-</b>Consequence:</b> A permanent ban from any sort of public interaction within the community.
+<b>Consequence:</b> A permanent ban from any sort of public interaction within the community.
 
 #### Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
