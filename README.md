@@ -1,4 +1,5 @@
 # HacktoberFest-23
+<img src="logo.png" alt="">
 
 The idea behind creating this repository is to have C++, Java and Python code of each and every topic of DSA. Also to have all the solutions 
 of the leetcode and geeksforgeeks problems. 
