@@ -1,22 +1,21 @@
 # HacktoberFest-23
-<img src="logo.png" alt="">
-
-The idea behind creating this repository is to have C++, Java and Python code of each and every topic of DSA. Also to have all the solutions 
+![Alt text](logo.png)
+The idea behind creating this repository is to have C++, Java and Python code of each and every topic of DSA. Also to have all the solutions.
 of the leetcode and geeksforgeeks problems. 
 
 Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Get a tree planted on your name as a symbol of 
 your devotion for Mother Earth when you complete the challenge. 
 
-<b>Register <a href="https://hacktoberfest.com/">for Hacktoberfest and make four pull requests (PRs) between October 1st-31st.</a> </b>
+<b>Register <a href="https://hacktoberfest.com/">here</a> for Hacktoberfest and make four pull requests (PRs) between October 1st-31st.</b>
 
-## INSTRUCTIONS for this project for beginners -
-### Getting started
+# INSTRUCTIONS for this project for beginners -
+## Getting started
 <ul>
 <li>Fork this repository (Click the Fork button in the top right of this page)</li>
 </li>You can directly make changes through Github or you can use VScode and commit by following the steps below</li>
 </li>Clone your fork down to your local machine</li>
 
-git clone <a href="https://github.com/mfatima05/Hacktoberfest-23.git"></a>
+##### git clone <a href="https://github.com/mfatima05/Hacktoberfest-23.git"></a>
 
 <li>Create a branch</li>
 git checkout -b <branch-name>
