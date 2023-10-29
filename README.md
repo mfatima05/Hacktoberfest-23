@@ -1,13 +1,12 @@
 # HacktoberFest-23
-<img src="logo.png" alt="">
-
-The idea behind creating this repository is to have C++, Java and Python code of each and every topic of DSA. Also to have all the solutions 
+![Alt text](logo.png)
+The idea behind creating this repository is to have C++, Java and Python code of each and every topic of DSA. Also to have all the solutions.
 of the leetcode and geeksforgeeks problems. 
 
 Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Get a tree planted on your name as a symbol of 
 your devotion for Mother Earth when you complete the challenge. 
 
-<b>Register <a href="https://hacktoberfest.com/">here</a>for Hacktoberfest and make four pull requests (PRs) between October 1st-31st.</b>
+<b>Register <a href="https://hacktoberfest.com/">here</a> for Hacktoberfest and make four pull requests (PRs) between October 1st-31st.</b>
 
 # INSTRUCTIONS for this project for beginners -
 ## Getting started
